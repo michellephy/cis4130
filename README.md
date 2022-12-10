@@ -1,2 +1,6 @@
-Project Description and Code for CIS4130 Semester Project 
-by Michelle Pang
+CIS4130 Semester Project by Michelle Pang
+
+When people get upset, aggressive or angry, they're more prone to agitation and frustration. This leads us to the idea of whether weather contributes to crime and if there is a connection between higher or lower temperatures and more or less crime. I intended to model the correlation between crimes and weather temperature. With this model, we can predicted if crime would be higher or lower than the monthly average based on the weather.
+
+The datasets I used were a compilation of multiple cities’ crime statistics. To obtain an objective and expansive dataset that represents the whole of the United States, I used data from major cities in the United States: New York, Chicago, and Los Angeles. Using each respective city’s OpenData website for the year of 2018 as well as the corresponding year and city’s weather temperature data, I modeleled the possible correlation between higher temperatures and violent crimes as well as look for any other peaks in crimes with possible connections to the weather at the time. The full combined dataset contained the date, the number of crimes per date, the temperature, the monthly average temperature as well as the number of average crimes for the specified city. With this data, we were able to predict if the number of crimes committed in the day will be higher or lower than the average given the day’s temperature. 
+
